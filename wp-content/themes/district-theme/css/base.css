@@ -18094,10 +18094,7 @@ table.bt tbody td .bt-content {
   .logo a h1 {
     font-size: 100% !important;
   }
-
-  /*@page {
-              size: A4 landscape; max-height:100%; max-width:100%;
-            }*/
+ 
   .wpb_column.vc_column_container {
     width: 100% !important;
   }
